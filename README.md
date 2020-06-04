@@ -1,4 +1,4 @@
-# Philedelphia 76ers Wireframe 
+# Philadelphia 76ers Wireframe 
 
 The skills program at Philedelphia currently has everything seperate.  The analytics of a workout currently do not correlate with the drills run during a skills workout.  The new software will have the following features: 
 
